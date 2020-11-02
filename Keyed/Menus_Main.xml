@@ -5,7 +5,7 @@
   <!-- EN: Tutorial -->
   <Tutorial>Lär dig spela</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>Nytt koloni</NewColony>
+  <NewColony>Ny koloni</NewColony>
   <!-- EN: Back to game -->
   <BackToGame>Tillbaka till spelet</BackToGame>
   <!-- EN: Review scenario -->
@@ -53,7 +53,7 @@
   <!-- EN: Buy soundtrack -->
   <BuySoundtrack>Köp musikspår</BuySoundtrack>
   <!-- EN: Create world -->
-  <CreateWorld>Tillverka egen värld</CreateWorld>
+  <CreateWorld>Skapa värld</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
@@ -191,7 +191,7 @@
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Alla textfält måste vara ifyllda.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Är du säker på att du vill ladda upp detta till Steam Workshop?\n\nDu måste godkänna Steam Workshop användarevillkor. Se villkoren här:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Är du säker på att du vill ladda upp detta till Steam Workshop?\n\nDu måste godkänna Steam Workshop användarvillkor. Se villkoren här:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Du kan bara ladda upp saker du skapat själv.\n\nSkapade du detta innehåll själv?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
@@ -203,9 +203,9 @@
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
-  <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
+  <ChooseAIStoryteller>Välj AI-berättare</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>AI Berättaren skapar händelser som piratattacker, sjukdomar, eller djurattacker. Deras val kommer att påverka din kolonis historia. Detta val kan ändras när som helst under spelets gång.</HowStorytellersWork>
+  <HowStorytellersWork>AI-berättaren skapar händelser som piratattacker, sjukdomar, eller djurattacker. Deras val kommer att påverka din kolonis historia. Detta val kan ändras när som helst under spelets gång.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Välj en svårighetsnivå.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
@@ -221,7 +221,7 @@
   <!-- EN: You can save and load the game at any time.\n\nThis isn't a bad choice if you're still learning the game, if it fits your personal playstyle or goals, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
   <ReloadAnytimeModeInfo>Du kan spara och ladda spelet när som helst.\n\nDetta är inte ett dåligt val om du fortfarande lär dig spelet, om det passar din personliga spelstil eller mål eller om du använder mod som kan skapa problem i ditt spel.</ReloadAnytimeModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>AI berättare och svårighetsnivåer kan ändras när som helst under spelets gång.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>AI-berättare och svårighetsnivåer kan ändras när som helst under spelets gång.</CanChangeStorytellerSettingsDuringPlay>
 
   <!-- Landing site select -->
   <!-- EN: Select landing site -->
@@ -233,7 +233,7 @@
   <!-- EN: Please select a landing site. -->
   <MustSelectLandingSite>Du måste välja en landningsplats.</MustSelectLandingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>Du kan inte landa i den här biomen: {0}</CannotLandBiome>
+  <CannotLandBiome>Du kan inte landa i det här biomet: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>Biomet är ej implementerat</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
@@ -247,7 +247,7 @@
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>Bosättningar kan inte vara direkt jämte varandra.</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>Biome</Biome>
+  <Biome>Biom</Biome>
   <!-- EN: Terrain -->
   <Terrain>Terräng</Terrain>
   <!-- EN: Road -->
